@@ -5,7 +5,7 @@ This repository showcases a hypothetical **Sandwich Delivery App** analyzed usin
 ## Project Overview
 - **Objective**: Understand user engagement, acquisition patterns, and retention drivers for a fictional sandwich delivery app.
 - **Data**: Synthetic data designed to mimic real-world user interactions (ordering, rating, payment methods, etc.).
-- **Tools**: [Mixpanel](https://mixpanel.com/), spreadsheets (optional), and basic data manipulation scripts.
+- **Tools**: [Mixpanel](https://mixpanel.com/)
 
 ## Key Analyses
 1. **User Behavior**  
